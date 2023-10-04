@@ -64,7 +64,7 @@
   <a href="mailto:mfaktasit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-ff69b4" alt="Email Me" />
   </a>
-  <a href="www.linkedin.com/in/fatih-aktas-76b521287">
+  <a href="https://www.linkedin.com/in/fatih-aktas-76b521287">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5" alt="LinkedIn" />
   </a>
 </p>
