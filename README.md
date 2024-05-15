@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg](https://banner2.cleanpng.com/20180821/kug/kisspng-amazon-com-amazon-web-services-cloud-computing-ama-amazonwebserviceslogo-svg-apptractor-5b7c13d387d6a5.7766254115348581955564.jpg)" alt="AWS" width="50" height="50" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rancher_logo_icon_169808.png" alt="Rancher" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
