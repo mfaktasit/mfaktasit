@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstanleymilton.com%2F%3Fc%3Damazon-web-services-logo-%25E2%2580%25A2-download-amazon-web-services-yy-YMM8EBiQ&psig=AOvVaw3AMsSTlnDempcYeHCKrgkG&ust=1715884362549000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODApcOlkIYDFQAAAAAdAAAAABAJ" alt="AWS" width="50" height="50" />
+  <img src="https://b2167490.smushcdn.com/2167490/wp-content/uploads/2021/10/Amazon-Web-Services-AWS-Logo-1024x576.png?lossy=1&strip=1&webp=1" alt="AWS" width="50" height="50" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rancher_logo_icon_169808.png" alt="Rancher" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
