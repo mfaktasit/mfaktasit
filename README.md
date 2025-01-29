@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" />
   <img src="https://saviynt.com/hubfs/aws.png" alt="AWS" width="50" height="50" />
-  <img src="https://www.rancher.com/assets/img/logos/rancher-suse-logo-horizontal-color.svg" alt="Rancher" width="50" height="50" />
+  <img src="https://thiagobarradas.gallerycdn.vsassets.io/extensions/thiagobarradas/rancher/1.1.7/1569367462170/Microsoft.VisualStudio.Services.Icons.Default" alt="Rancher" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
 </p>
