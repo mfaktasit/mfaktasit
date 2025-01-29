@@ -81,6 +81,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <sub>Built with ❤️ using Markdown and vibrant colors by Fatih Aktas.</sub>
+  <sub>Built with ❤️ by Fatih Aktas.</sub>
 </p>
 
