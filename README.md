@@ -1,86 +1,109 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm Fatih Aktas</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mfaktasit/mfaktasit/main/assets/banner.gif" alt="Fatih Aktas - Data/DevOps Engineer" width="100%"/>
+  <h1>Fatih Aktas | Data/DevOps Engineer</h1>
+  <p><em>Building data pipelines and scalable infrastructure with automation</em></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-aktas-76b521287)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfaktasit@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaktasit)
+</div>
 
-<!-- Introduction -->
-<p align="center">
-  I'm thrilled to share my transformative journey into the dynamic realm of Information Technology. Fueled by purpose, I've rebuilt my life through the power of technology.
-</p>
+## 👨‍💻 About Me
 
-<p align="center">
-  Life led me to realize my passion for IT. With unwavering determination, I transitioned into this industry, reshaping my future. Currently, I'm deepening my skills with Clarusway Bootcamp, exploring AWS - DevOps intricacies. This program equips me with insights in cloud computing, automation, and software delivery.
-</p>
+I'm a Data/DevOps Engineer with a passion for building robust data pipelines, cloud infrastructure, and automating workflows. My journey into tech has been driven by determination and a love for solving complex data and infrastructure challenges. Currently enhancing my skills through Clarusway's program, I'm committed to:
 
-<p align="center">
-  A fast learner, I swiftly adapt to new environments. Challenges in IT are exciting opportunities for growth, innovation, and positive contributions. My harmonious nature and positive outlook enhance my enthusiasm.
-</p>
+- 📊 Designing and implementing data pipelines
+- 🔄 Building CI/CD pipelines for data workflows
+- 🚀 Deploying scalable data infrastructure
+- 🛠️ Automating data processing and deployment processes
+- 📈 Optimizing system performance for data-intensive applications
+- 🔍 Implementing data monitoring solutions
 
-<p align="center">
-  Embracing IT has been exhilarating. Every challenge is a chance to learn, grow, and adapt. I'm driven by curiosity and a commitment to never stop learning. The IT world is a canvas of innovation where creativity knows no bounds. Determination becomes the foundation upon which dreams are built.
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  With each step, I rebuild my envisioned life. This journey is about embracing technology and my boundless potential. I channel my energy, passion, and commitment to create an impact in the IT realm and beyond.
-</p>
+<div align="center">
 
-<p align="center">
-  Join me on this voyage of reinvention and limitless possibilities. Let's transform lives and shape a future full of promise.
-</p>
+### Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-<p align="center">
-  Thank you for being part of my journey. Stay tuned for exciting updates!
-</p>
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<p align="center">
-  With gratitude, 💻
-</p>
+### CI/CD & DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<!-- Skills -->
-<h2 align="center">🚀 Skills</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/google_nexus-512.png" alt="Nexus" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" />
-  <img src="https://saviynt.com/hubfs/aws.png" alt="AWS" width="50" height="50" />
-  <img src="https://thiagobarradas.gallerycdn.vsassets.io/extensions/thiagobarradas/rancher/1.1.7/1569367462170/Microsoft.VisualStudio.Services.Icons.Default" alt="Rancher" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
-</p>
+### Data Storage & Processing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-<!-- Let's Connect -->
-<h2 align="center">📫 Let's Connect!</h2>
-<p align="center">
-  <a href="mailto:mfaktasit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-ff69b4" alt="Email Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/fatih-aktas-76b521287">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5" alt="LinkedIn" />
-  </a>
-</p>
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfaktasit&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### Other Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-16A5F3?style=for-the-badge&logo=sonatype&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 
-<!-- Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfaktasit" alt="Profile Views" />
-</p>
+</div>
 
-<!-- Footer -->
-<p align="center">
-  <sub>Built with ❤️ by Fatih Aktas.</sub>
-</p>
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mfaktasit/project-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaktasit&repo=mfaktasit&theme=dark" />
+</a>
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfaktasit&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mfaktasit&theme=dark"/>
+</div>
+
+## 💡 My Journey
+
+My path into technology has been one of transformation and growth. What began as a career change has evolved into a passion for combining data engineering with DevOps practices. Every challenge has been an opportunity to learn and innovate in the data space, and I'm committed to continual improvement.
+
+I believe in the power of data and automation to solve complex problems and create efficient systems. My approach combines technical expertise in data processing with infrastructure automation, always focused on delivering scalable data solutions that make a difference.
+
+## 📫 Let's Connect
+
+I'm always open to discussing data projects, pipeline architectures, innovative ideas, or opportunities to collaborate. Feel free to reach out through any of the channels below:
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-aktas-76b521287)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfaktasit@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfaktasit&style=flat-square&color=blue" alt="Profile views"/>
+  <p><sub>Built with ❤️ by Fatih Aktas</sub></p>
+</div>
 
