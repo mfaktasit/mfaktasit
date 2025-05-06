@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data/DevOps Engineer with a passion for building robust data pipelines, cloud infrastructure, and automating workflows. My journey into tech has been driven by determination and a love for solving complex data and infrastructure challenges. Currently enhancing my skills through Clarusway's program, I'm committed to:
+Accomplished DevOps Engineer & Data Engineer with 5+ years of experience in cloud infrastructure, data pipeline orchestration, and automation. Demonstrated expertise in designing scalable AWS-based data platforms and orchestrating data workflows using AWS Managed Airflow (MWAA), Apache Airflow, and Argo Workflows. Proficient in building robust ETL pipelines using AWS Glue, DBT, Redshift, and Snowflake, with experience in data ingestion using Airbyte and Fivetran. Skilled in SQL, Python, Terraform, and Kubernetes, with hands-on experience in CI/CD pipeline automation using GitHub Actions, Jenkins, and GitLab. Proficient in container orchestration using Docker, Helm, and Kubernetes, AWS (EKS) managed via Rancher. Proven ability to optimize data workflows, ensure secure and compliant data architecture, and build real-time monitoring solutions with QuickSight, Grafana, and Prometheus. I'm committed to:
 
 - 📊 Designing and implementing data pipelines
 - 🔄 Building CI/CD pipelines for data workflows
